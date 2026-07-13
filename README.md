@@ -19,9 +19,8 @@
 ---
 
 ### 💻 About Me [나의 이야기]
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lazberry89&show_icons=true&theme=dark&hide_border=true" alt="lazberry89's GitHub stats" />
-</p>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lazberry89&show_icons=true&theme=dark&hide_border=true" alt="lazberry89's GitHub stats" />
 
 * ☕ **Java에 깊은 진심을 가진 백엔드 개발자**입니다. 가독성 높고 견고한 아키텍처를 지향합니다.
 * 🚀 **Spring Boot** 및 **MFR (Minecraft Framework)** 환경에서 높은 숙련도를 가지고 있으며, 다양한 Java API 고도화 경험이 풍부합니다.
@@ -31,9 +30,9 @@
 ---
 
 ### 📊 Stats & Custom Area [두 번째 블록]
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazberry89&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lazberry89&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+
 
 * 📌 **현재 진행 중인 목표:** [여기에 현재 공부 중이거나 개발 중인 프로젝트 목표를 적어보세요]
 * 💬 **선호하는 협업 방식:** [여기에 본인의 개발 성향이나 팀원들과 소통하는 방식을 적어보세요]
