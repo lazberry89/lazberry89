@@ -18,7 +18,7 @@
 
 ---
 
-### 💻 About Me [첫 번째 블록]
+### 💻 About Me [나의 이야기]
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lazberry89&show_icons=true&theme=dark&hide_border=true" alt="lazberry89's GitHub stats" />
 </p>
